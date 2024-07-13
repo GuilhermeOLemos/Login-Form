@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div>
+        <input type="text" placeholder="Usuário" id="email">
+        <!-- Usuário pode ser nome, email ou telefone -->
+        <!-- Validação, se tiver @ validar email -->
+        <!-- Validação, se tiver somente digitos, validar telefone -->
+        <!-- Validação, se não for nenhum dos dois, validar nome -->
+        <input type="text" placeholder="Senha" id="senha">
+        <span id="spanConteudo">0-9 e A-Z</span>
+        <span id="spanLetra">Letra maiuscula</span>
+        <span id="spanEspecial">Caracteres especiais permitidos (./*+-_)</span>
+        <div id="linha"></div>
+        <button id="btnEntrar">Entrar</button>
+    </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="scripts.js"></script>
+</html>

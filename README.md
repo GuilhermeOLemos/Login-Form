@@ -33,7 +33,7 @@ O projeto está organizado da seguinte forma:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SeuUsuario/ProjetoLoginWeb.git
+   git clone https://github.com/GuilhermeOLemos/Login-Form.git
 2. **Navegue até o diretório do projeto:**
 	  ```bash
 	  cd ProjetoLoginWeb

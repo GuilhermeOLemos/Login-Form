@@ -20,10 +20,12 @@ Este projeto é uma implementação de uma interface de tela de login web, desen
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
-├─ index.html # Página principal de login
-├─ styles.css # Estilos CSS
-├─ script.js # Lógica de validação e interação
-└─ assets/ # Imagens e outros recursos estáticos
+
+O projeto está organizado da seguinte forma:
+├── index.html # Página principal de login 
+├── styles.css # Estilos CSS 
+├── script.js # Lógica de validação e interação 
+└── assets/ # Imagens e outros recursos estáticos
 
 ## Como Executar
 
